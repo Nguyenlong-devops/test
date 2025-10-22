@@ -1,2 +1,0 @@
-test text 123
-echo "xin chao cac ban"
